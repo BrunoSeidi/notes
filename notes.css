@@ -1,0 +1,11 @@
+/* como comentar utilizando css */
+/* Toda página é basicamente em blocos, e algumas funções já estão como default do próprio navegar */
+/* visto que é tudo em blocos, posso alterar height e width de elementos como a tag "hr" "image"... */
+hr{
+    background-color: black;
+    border-style: none;
+    height: 2px;
+}
+body{
+    background-color: rgb(212, 220, 235);
+}
