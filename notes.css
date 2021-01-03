@@ -10,3 +10,4 @@ body{
     background-color: rgb(212, 220, 235);
 }
 /* para diferenciar tags, eu posso criar "class" na tag do CSS para especificar no css*\
+/*a prioridade do css é inline, inside e externo*\
