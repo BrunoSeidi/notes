@@ -11,3 +11,8 @@ body{
 }
 /* para diferenciar tags, eu posso criar "class" na tag do CSS para especificar no css*\
 /*a prioridade do css é inline, inside e externo*\
+
+
+/*id  #heading (exemplo) = 
+<h1 id ="heading">olá<h1> *\
+/*classes posso colocar em mais elementos com o mesmo nome enquanto id somente para um com o mesmo nome *\
