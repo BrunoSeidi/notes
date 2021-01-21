@@ -22,3 +22,27 @@ else if (password=="chicken"){
 }
 // usar || ou && para substituir if/else
 
+//usando arrays
+
+let shopList = ["banana", "egg", "bread"];
+shopList.push("carrot") //add carrot at the end
+shopList.pop() //remove from end
+shopList.shift()//remove from start
+// """" .unshift()// add to start
+
+concat
+//ex
+const room = ["bed, TV, wardrobe"];
+const bathroom=["shower","sink"];
+console.log(room.concat(bathroom));
+
+// look for a value
+includes
+
+room.includes("bed", 1) //i can see if the element is in one exactly position); //found as true or false
+
+room.indexOf("bed") //search for value and return the index where found it
+
+//size of the text, arrays, etc 
+room.length //ex
+
