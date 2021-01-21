@@ -46,3 +46,6 @@ room.indexOf("bed") //search for value and return the index where found it
 //size of the text, arrays, etc 
 room.length //ex
 
+room.reverse() // will reverse all the list
+
+room.join('.')// will put every thing into a same string separated by "."
