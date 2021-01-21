@@ -1,6 +1,24 @@
 //learning javascript
 //functions:
-// ex function () {
+//ex: function add() {}
+// use console.log, pois alert é para user
+
+//exemplos
+
+let password="chicken";
+if (password== "pig" || password=="chicken"){
+    console.log("password correct")
 }
-// var ex =
-//não usar mais"var", utilizar const(variavel imutável) ou let = ""
+
+
+//ou
+
+let password="chicken";
+if (password== "pig"){
+    console.log("correct");
+}
+else if (password=="chicken"){
+    console.log("correct");
+}
+// usar || ou && para substituir if/else
+
