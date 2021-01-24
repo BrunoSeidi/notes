@@ -33,5 +33,14 @@ for(let num of arr){
 return result;
 }
 
+////////////////////////////////
+function callThreeTimes(f){
+    f();
+    f();
+    f();
+}
 
+function cry(){
+    console.log("teste");
+} //callThreeTime(cry) ->  it will call "teste three times"
    
