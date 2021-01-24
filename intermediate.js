@@ -22,7 +22,16 @@ const number = {
 
 //console: number[100] = "one hundred"
 
-
+//functions
+//block scope - i can't use some variables outside the function, but i can reuse the for loop result // 
+function doubleArr(arr){
+const result= [];
+for(let num of arr){
+   let double = num* 2;
+   result.push(double);
+}
+return result;
+}
 
 
    
