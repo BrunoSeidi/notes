@@ -33,6 +33,9 @@ for(let num of arr){
 return result;
 }
 
+instead of using function, if there is a single value to use, use : ex
+const double = ex.map(n => n*2);
+
 ////////////////////////////////
 function callThreeTimes(f){
     f();
