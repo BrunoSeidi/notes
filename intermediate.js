@@ -46,4 +46,10 @@ function callThreeTimes(f){
 function cry(){
     console.log("teste");
 } //callThreeTime(cry) ->  it will call "teste three times"
+
+//spread ...
+const nums = [9, 3 ,2 ,1]
+Math.max(... nums);
+
+//separate 
    
