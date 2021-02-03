@@ -52,4 +52,8 @@ const nums = [9, 3 ,2 ,1]
 Math.max(... nums);
 
 //separate 
+
+
+///////////////dom manipulation
+
    
