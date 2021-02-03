@@ -55,5 +55,12 @@ Math.max(... nums);
 
 
 ///////////////dom manipulation
-
+getAttribute()
+setAttribute()
+appendChild()
+append()
+prepend()
+removeChild()
+remove()
+createElement
    
