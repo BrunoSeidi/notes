@@ -51,7 +51,11 @@ room.reverse() // will reverse all the list
 room.join('.')// will put every thing into a same string separated by "."
 
 room.splice(start(posição do elemento), delete, add);//add a value or delete in the middle of the array
+//use
 
 
 //sort
 room.sort(); //turns all the elements into strings, so it gets worng when using number
+
+
+
